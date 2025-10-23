@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 21a5122ac66cc334ba34937ec1ece5df
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 335
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384d6f2e9381aa4d8276a9466a65671
+      internalID: 482717359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 327
+        width: 143
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5511dedacb12142a230c7fd9cdf996
+      internalID: 1861986562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 390
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019613c5747fb644086bcf9960f1b517
+      internalID: 844043305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 406
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1d4ffa12cb7c4cb854837ab028619
+      internalID: 1740696238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 125
+        width: 123
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0faa23f09edd94bba12fe696a97966
+      internalID: -1009469048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 144
+        width: 134
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebf062805295da4287090cae88ca4fb
+      internalID: -923344700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 289
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfea3a19eba8a294981ab63fa06c05c0
+      internalID: -679901506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 288
+        width: 37
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb789d964a326e1479f8883d91d31e95
+      internalID: -1859931254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 27
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab2c451c33321a44a257a6de63d90fe
+      internalID: 1580962648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 27
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97d156659cc23f408abcac390b3a272
+      internalID: 1810730344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c2e975831f11468718bb84fc3a9fb
+      internalID: 334479044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 31
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb01ad3bee067b42bf0faad1befd6f4
+      internalID: 1363272312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 27
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714df444a2cbda242bf573bdc63e1b35
+      internalID: -1249156257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien-energy-shields-displaying-weapons-inside-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 31
+        width: 126
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c47a6284173904fa66773c6f940500
+      internalID: 1239465446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_0: 482717359
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_1: 1861986562
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_10: 334479044
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_11: 1363272312
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_12: -1249156257
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_13: 1239465446
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_2: 844043305
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_3: 1740696238
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_4: -1009469048
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_5: -923344700
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_6: -679901506
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_7: -1859931254
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_8: 1580962648
+      alien-energy-shields-displaying-weapons-inside-removebg-preview_9: 1810730344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
